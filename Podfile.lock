@@ -1,0 +1,25 @@
+PODS:
+  - AARatingBar (1.2)
+  - PhoneNumberKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.4)
+    - PhoneNumberKit/UIKit (= 3.3.4)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.4)
+  - PhoneNumberKit/UIKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore
+
+DEPENDENCIES:
+  - AARatingBar
+  - PhoneNumberKit (~> 3.3)
+
+SPEC REPOS:
+  trunk:
+    - AARatingBar
+    - PhoneNumberKit
+
+SPEC CHECKSUMS:
+  AARatingBar: dc54d24687ae97688ffdb29738332d0bc5c0c09f
+  PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
+
+PODFILE CHECKSUM: 5ee411408d442286ca1425941a7fcf82970e5734
+
+COCOAPODS: 1.11.2
